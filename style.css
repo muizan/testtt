@@ -1,0 +1,12 @@
+.outer{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background-color: azure;
+}
+.inner{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: blue;
+}
